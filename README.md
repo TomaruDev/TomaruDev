@@ -10,7 +10,7 @@ I have a lot of projects, and if you want to visit my website (in French) to kno
 
 ## My Github Stats &#x1f4c8;
 <a href="https://github.com/TomaruDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaruDev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomaruDev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
 </a>
 
 <a href="https://github.com/TomaruDev">
